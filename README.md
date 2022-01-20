@@ -1,6 +1,7 @@
 # flutter_complete_guide
 
 A new Flutter project.
+This is my first flutter app which was developed to get introduction of flutter and dart. Learnt basics about widgets, states, stateless widgets, stateful widgets and some more things
 
 ## Getting Started
 
